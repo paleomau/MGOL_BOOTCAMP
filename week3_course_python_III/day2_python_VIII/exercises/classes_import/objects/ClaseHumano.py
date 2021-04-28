@@ -1,7 +1,7 @@
 class Humano:
 
     # función constructor
-    def __init__(self, ojos = 2, piernas = 2, dientes = 32, nombre, armadura, nivel, ataque, salud = 100,):
+    def __init__(self, ojos = 2, piernas = 2, dientes = 32, nombre, armadura, nivel, ataque, salud = 100):
         # nombre del atributo de la clase Humano <-- --> valor
         self.ojos = ojos
         self.piernas = piernas
