@@ -12,22 +12,22 @@ class Humano:
         self.ataque = ataque
         self.salud = salud
 
-    def f_atacar(self, Orco):
+    def f_atacar(self, Orco=jose):
         Orco.salud -= self.ataque - Orco.armadura
 
 
-    def f_no_vivo():
+    def f_no_vivo(self):
         if self.salud <= 0:
             return True
         else:
             return False
 
-    def f_atributos():
-        pass
+    def f_atributos(self):
+        print(Mauro.nombre)
+        print(Mauro.salud) 
+        print(Mauro.armadura)
+       
 
-Mauro = Humano(nombre = "Ataulfo",)
+Mauro = Humano(nombre = "Mauro", nivel=20, armadura=25, ataque=20)
 
-Mauro.atributos()
-print(Mauro.nombre)
-print(Mauro.salud) 
-print(Mauro.armadura) 
+jose = Orco(nombre='José', nivel=28, armadura=math.ceil(28/15), ataque=math.ceil(28/6))
