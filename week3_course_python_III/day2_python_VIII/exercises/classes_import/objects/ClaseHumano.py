@@ -1,7 +1,7 @@
 class Humano:
 
     # función constructor
-    def __init__(self, ojos = 2, piernas = 2, dientes = 32, nombre, armadura, nivel, ataque, salud = 100):
+    def __init__(self,nombre, armadura, nivel, ataque, ojos = 2, piernas = 2, dientes = 32, salud = 100):
         # nombre del atributo de la clase Humano <-- --> valor
         self.ojos = ojos
         self.piernas = piernas
@@ -12,7 +12,7 @@ class Humano:
         self.ataque = ataque
         self.salud = salud
 
-    def f_atacar(self, Orco=jose):
+    def f_atacar(self, Orco):
         Orco.salud -= self.ataque - Orco.armadura
 
 
@@ -23,11 +23,9 @@ class Humano:
             return False
 
     def f_atributos(self):
-        print(Mauro.nombre)
-        print(Mauro.salud) 
-        print(Mauro.armadura)
+        print(mauro.nombre)
+        print(mauro.salud) 
+        print(mauro.armadura)
        
 
-Mauro = Humano(nombre = "Mauro", nivel=20, armadura=25, ataque=20)
-
-jose = Orco(nombre='José', nivel=28, armadura=math.ceil(28/15), ataque=math.ceil(28/6))
+mauro = Humano(nombre = "Mauro", nivel=20, armadura=25, ataque=20)
