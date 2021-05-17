@@ -5,12 +5,13 @@
 **Work-in:**
 
 1. Exercises
+2. SQL I
 
 ---------
 
 **Work-out:**
 
-2. Exercises
+3. Exercises
 
 *NOTE: Under the cells in pandas exercises, there is the solution. Remember that if you run the cells you will lose the solution. For that, try to create new cells to check your solution.*
 
