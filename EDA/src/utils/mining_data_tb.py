@@ -3,24 +3,6 @@ import numpy as np
 import sys, os
 
 
-ruta = __file__
-print(ruta)
-N = 3  # Mi carpeta raiz está 5 carpetas por encima de mi fichero actual
-for i in range(N):
-    ruta = os.path.dirname(ruta)
-    print(ruta)
-print("---------")
-sys.path.append(ruta)
-print(sys.path)
-
-
-
-
-
-
-
-
-
 def limpiar(df):
     dflimpio = df.dropna()
     return dflimpio
