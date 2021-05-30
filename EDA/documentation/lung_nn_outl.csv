@@ -1,0 +1,431 @@
+patient,TP53,KRAS,KEAP1,EGFR,STK11,ATM,SMARCA4,LRP1B,TP53: MUT,KRAS: MUT,KEAP1: MUT,EGFR: MUT,STK11: MUT,ATM: MUT,SMARCA4: MUT,LRP1B: MUT,Tipos,Sex,Diagnosis Age,Progress Free Survival (Months),Ethnicity Category,Mutation Count
+LUAD-E01014,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,60,4.03,European,166
+LUAD-S01404,,B,C,,,,,I,,K,L,,,,,Q,"B,C,I,K,L,Q",Male,55,10.0,European,201
+LUAD-S01381,,,C,,F,,,,,,L,,N,,,,"C,F,L,N",Male,61,0.0,European,209
+LUAD-S01331,A,B,,,F,G,,I,J,K,,,N,O,,Q,"A,B,F,G,I,J,K,N,O,Q",Male,72,13.0,European,253
+LUAD-S01467,A,B,,,,,H,I,J,K,,,,,P,Q,"A,B,H,I,J,K,P,Q",Male,60,9.0,European,288
+LUAD-S01405,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,74,10.0,European,299
+LUAD-S01356,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,80,21.0,European,439
+LUAD-S01346,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,69,12.0,European,428
+LUAD-S01345,A,,,,,,,,J,,,,,,,,"A,J",Male,74,21.0,European,402
+LUAD-S00488,,B,C,,,,,,,K,L,,,,,,"B,C,K,L",Male,72,0.0,European,440
+LUAD-S01478,A,,,,F,,,,J,,,,N,,,,"A,F,J,N",Male,63,0.0,European,493
+LUAD-E00934,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Male,58,4.83,European,649
+LUAD-S01302,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,64,0.0,European,738
+LUAD-NYU848,,,,D,,,,I,,,,M,,,,Q,"D,I,M,Q",Female,65,34.13,European,21
+LUAD-NYU252,,,,D,,,,,,,,M,,,,,"D,M",Female,70,59.77,European,26
+LUAD-E00163,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,54,6.3,European,33
+LUAD-B01102,A,,,,,,,,J,,,,,,,,"A,J",Male,61,7.07,European,42
+LUAD-NYU704,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,55,43.53,European,49
+LUAD-NYU802,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,44,21.23,Asian,47
+LUAD-NYU608,,,,D,,,,,,,,M,,,,,"D,M",Male,64,33.1,European,55
+LUAD-NYU947,,,,D,,,,,,,,M,,,,,"D,M",Female,58,28.77,European,51
+LUAD_E00703,,B,,,,,,,,K,,,,,,,"B,K",Female,70,2.1,European,48
+LUAD-NYU1195,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Male,63,9.07,European,58
+LUAD-S01373,,,,,,G,,,,,,,,O,,,"G,O",Male,53,0.0,European,54
+LUAD-D00147,,,,D,,,,I,,,,M,,,,Q,"D,I,M,Q",Female,74,9.17,European,60
+LUAD-S01362,,,,D,,,,,,,,M,,,,,"D,M",Female,78,18.0,European,73
+LUAD-NYU1210,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Male,68,14.13,European,62
+LUAD_E01419,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,51,1.8,European,70
+LUAD-S00499,,B,,,,,,,,K,,,,,,,"B,K",Female,72,0.0,European,64
+LUAD-F00134,,,,D,,,,,,,,M,,,,,"D,M",Male,87,7.5,European,66
+LUAD-NYU739,,,C,,,,,,,,L,,,,,,"C,L",Female,72,41.83,European,71
+LUAD-NYU584S,,B,,,,,,,,K,,,,,,,"B,K",Female,59,23.83,European,76
+LUAD-NYU1096,A,,,,,,,,J,,,,,,,,"A,J",Female,58,20.63,European,74
+LUAD-S01304,A,,,,,,,,J,,,,,,,,"A,J",Male,75,16.0,European,112
+LUAD-NYU696,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,57,37.5,European,109
+LUAD-NYU330,,,,,,,,I,,,,,,,,Q,"I,Q",Female,70,32.83,European,112
+LUAD-NYU1101,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,72,19.7,European,122
+LUAD-S01482,,B,,,F,G,,I,,K,,,N,O,,Q,"B,F,G,I,K,N,O,Q",Female,48,8.0,European,120
+LUAD-RT-S01711,,,,D,,G,,,,,,M,,O,,,"D,G,M,O",Male,63,7.0,European,130
+LUAD-B02477,,,C,,F,,H,,,,L,,N,,P,,"C,F,H,L,N,P",Male,77,3.77,European,140
+LUAD-D01278,A,,,,,G,,,J,,,,,O,,,"A,G,J,O",Male,60,7.17,European,140
+LUAD-RT-S01487,,,C,,F,G,,,,,L,,N,O,,,"C,F,G,L,N,O",Male,68,8.0,European,160
+LUAD-S01354,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,49,17.0,European,148
+LUAD-NYU575,,B,,,,,,,,K,,,,,,,"B,K",Female,61,21.27,European,158
+LUAD-NYU195,,,,,F,,,,,,,,N,,,,"F,N",Male,57,63.27,Asian,165
+LUAD-B01169,A,,,,F,,,,J,,,,N,,,,"A,F,J,N",Male,60,1.13,European,177
+LUAD-RT-S01703,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Male,54,5.0,European,184
+LUAD-S00486,,B,,,,,H,,,K,,,,,P,,"B,H,K,P",Male,74,0.0,European,179
+LUAD-D01382,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Male,68,1.83,European,188
+LUAD-RT-S01700,A,,C,,F,G,,I,J,,L,,N,O,,Q,"A,C,F,G,I,J,L,N,O,Q",Female,38,6.0,European,196
+LUAD-NYU263,,,,,,,,I,,,,,,,,Q,"I,Q",Female,56,6.7,European,194
+LUAD-F00057,A,,,,,,,,J,,,,,,,,"A,J",Male,81,5.57,European,212
+LUAD-NYU1021,A,,C,,F,,,,J,,L,,N,,,,"A,C,F,J,L,N",Female,48,24.3,European,201
+LUAD-D01751,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,50,5.93,European,221
+LUAD-NYU201,,B,,,,G,,I,,K,,,,O,,Q,"B,G,I,K,O,Q",Male,84,61.87,European,223
+LUAD-NYU184,,,,D,F,G,,,,,,M,N,O,,,"D,F,G,M,N,O",Male,77,8.63,European,230
+LUAD-B01145,,B,,,,G,,,,K,,,,O,,,"B,G,K,O",Male,70,6.07,European,229
+LUAD_E01147,A,,,,,,,,J,,,,,,,,"A,J",Male,72,5.5,European,237
+LUAD-NYU160,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,80,10.67,European,234
+LUAD-F00257,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,68,2.17,European,250
+LUAD-B02077,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Male,65,16.3,European,261
+LUAD-D02085,A,,,,,,H,I,J,,,,,,P,Q,"A,H,I,J,P,Q",Female,70,5.63,European,281
+LUAD-F00121,,B,,,,G,,,,K,,,,O,,,"B,G,K,O",Female,66,5.17,European,257
+LUAD-B01970,A,,,,,,,,J,,,,,,,,"A,J",Male,47,2.7,European,235
+LUAD-F00018,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,52,6.0,European,250
+LUAD-B02515,,B,,,,,,,,K,,,,,,,"B,K",Male,73,6.93,European,268
+LUAD-F00089,,,,,F,,,I,,,,,N,,,Q,"F,I,N,Q",Male,72,6.27,European,294
+LUAD_E01047,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Male,81,4.0,European,288
+LUAD-B00859,,B,,,F,G,,,,K,,,N,O,,,"B,F,G,K,N,O",Female,53,8.03,European,290
+LUAD-NYU669,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,65,32.63,European,319
+LUAD-S00484,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,45,22.0,European,339
+LUAD-NYU259,A,,,,,,,,J,,,,,,,,"A,J",Female,79,22.17,European,339
+LUAD-RT-S01721,,B,C,,F,,,I,,K,L,,N,,,Q,"B,C,F,I,K,L,N,Q",Male,74,6.0,European,366
+LUAD-S01306,,,C,,,,,I,,,L,,,,,Q,"C,I,L,Q",Female,55,14.0,European,368
+LUAD-D02185,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Female,54,5.4,European,354
+LUAD-S01413,A,B,,,F,G,,,J,K,,,N,O,,,"A,B,F,G,J,K,N,O",Female,71,10.0,European,353
+LUAD-NYU847,A,,,,,,,,J,,,,,,,,"A,J",Male,67,35.03,European,369
+LUAD-B02216,A,,,,,,,,J,,,,,,,,"A,J",Female,64,14.87,European,387
+LUAD-RT-S01699,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,51,6.0,European,397
+LUAD-E00443,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,74,21.27,European,425
+LUAD-E00918,A,,,,,,,,J,,,,,,,,"A,J",Female,56,4.97,European,420
+LUAD-F00282,A,B,,,,,H,I,J,K,,,,,P,Q,"A,B,H,I,J,K,P,Q",Male,63,6.93,European,429
+LUAD-B00523,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,68,13.6,European,440
+LUAD-F00365,A,,,,,,H,I,J,,,,,,P,Q,"A,H,I,J,P,Q",Male,70,5.8,European,421
+LUAD-B00915,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,67,0.0,European,448
+LUAD-NYU1051S,A,,C,,,,H,I,J,,L,,,,P,Q,"A,C,H,I,J,L,P,Q",Male,78,24.27,European,482
+LUAD-NYU1219,,,,,,,,I,,,,,,,,Q,"I,Q",Male,77,13.83,European,467
+LUAD-E00897,A,,,,,,,,J,,,,,,,,"A,J",Male,58,3.53,European,491
+LUAD-RT-S01702,,,C,D,,,,,,,L,M,,,,,"C,D,L,M",Female,60,5.0,European,477
+LUAD-S01409,A,B,C,,,,,,J,K,L,,,,,,"A,B,C,J,K,L",Female,69,10.0,European,575
+LUAD-F00162,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,80,8.8,European,600
+LUAD-NYU408,A,B,,D,F,,H,I,J,K,,M,N,,P,Q,"A,B,D,F,H,I,J,K,M,N,P,Q",Female,71,16.33,European,613
+LUAD-B02594,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,49,4.6,European,653
+LUAD-F00368,A,,,D,,,,I,J,,,M,,,,Q,"A,D,I,J,M,Q",Female,82,6.33,European,674
+LUAD_E00565,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,78,6.73,European,671
+LUAD-NYU284,,,C,,,G,,I,,,L,,,O,,Q,"C,G,I,L,O,Q",Female,68,60.07,European,685
+LUAD-D01603,,B,C,,,,H,I,,K,L,,,,P,Q,"B,C,H,I,K,L,P,Q",Male,52,0.13,European,699
+LUAD_E00623,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,70,5.77,European,750
+LUAD-B00416,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Female,59,9.33,European,803
+LUAD-B01811,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,60,7.43,European,950
+LUAD_E00522,A,,,,,G,H,I,J,,,,,O,P,Q,"A,G,H,I,J,O,P,Q",Female,46,1.87,European,1038
+LUAD-S01357,A,B,,,,,H,I,J,K,,,,,P,Q,"A,B,H,I,J,K,P,Q",Male,57,21.0,European,1467
+LUAD-S01315,A,,,,,,,,J,,,,,,,,"A,J",Male,77,15.0,European,1765
+TCGA-35-3615,,B,C,,F,,,I,,K,L,,N,,,Q,"B,C,F,I,K,L,N,Q",Male,57,0.4602689286,Not Hispanic Or Latino,104
+TCGA-35-4122,A,,,,,,,,J,,,,,,,,"A,J",Male,69,7.397179209,Not Hispanic Or Latino,296
+TCGA-35-4123,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,38,5.9834960713,Not Hispanic Or Latino,244
+TCGA-35-5375,A,,C,,,,H,I,J,,L,,,,P,Q,"A,C,H,I,J,L,P,Q",Male,61,8.6793569386,Not Hispanic Or Latino,387
+TCGA-38-4625,,,,,,,,I,,,,,,,,Q,"I,Q",Female,66,97.741394615,Not Hispanic Or Latino,540
+TCGA-38-4626,,,,,,,,I,,,,,,,,Q,"I,Q",Female,57,82.782654437,Not Hispanic Or Latino,239
+TCGA-38-4627,,,,D,,,,,,,,M,,,,,"D,M",Female,64,37.70917579,Not Hispanic Or Latino,30
+TCGA-38-4628,,,,D,,,,,,,,M,,,,,"D,M",Female,65,35.605089259,Not Hispanic Or Latino,112
+TCGA-38-4631,,,C,,,,H,I,,,L,,,,P,Q,"C,H,I,L,P,Q",Female,72,11.638228622,Not Hispanic Or Latino,687
+TCGA-38-4632,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,42,22.355919387,Not Hispanic Or Latino,497
+TCGA-38-6178,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,70,14.728605714,Not Hispanic Or Latino,65
+TCGA-38-7271,,,,,,,,I,,,,,,,,Q,"I,Q",Female,72,9.9944110202,Not Hispanic Or Latino,87
+TCGA-44-2655,,,C,,,,,,,,L,,,,,,"C,L",Female,65,33.172239208,Not Hispanic Or Latino,164
+TCGA-44-2656,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Male,59,18.673767959,Not Hispanic Or Latino,766
+TCGA-44-2659,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,65,37.676299438,Not Hispanic Or Latino,396
+TCGA-44-2662,A,,,,,,,,J,,,,,,,,"A,J",Male,65,8.0547062498,Not Hispanic Or Latino,188
+TCGA-44-2668,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,51,14.235460433,Not Hispanic Or Latino,319
+TCGA-44-3396,A,,,,,,,,J,,,,,,,,"A,J",Female,74,37.150277805,Not Hispanic Or Latino,184
+TCGA-44-3398,,,,,,,,I,,,,,,,,Q,"I,Q",Female,77,38.235197422,Not Hispanic Or Latino,173
+TCGA-44-3917,A,B,C,,,,,,J,K,L,,,,,,"A,B,C,J,K,L",Female,33,38.892724463,Not Hispanic Or Latino,199
+TCGA-44-3918,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,60,16.799815892,Not Hispanic Or Latino,884
+TCGA-44-4112,,,,,,,,I,,,,,,,,Q,"I,Q",Female,60,20.350461913,Not Hispanic Or Latino,434
+TCGA-44-5644,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,51,28.372291811,Not Hispanic Or Latino,906
+TCGA-44-5645,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,61,28.010651938,Not Hispanic Or Latino,36
+TCGA-44-6144,A,B,,,F,,,,J,K,,,N,,,,"A,B,F,J,K,N",Male,58,13.117664464,Not Hispanic Or Latino,198
+TCGA-44-6145,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,62,19.561429464,Not Hispanic Or Latino,298
+TCGA-44-6146,,B,,,,,,,,K,,,,,,,"B,K",Male,64,20.744978137,Not Hispanic Or Latino,37
+TCGA-44-6774,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,56,21.632639642,Not Hispanic Or Latino,277
+TCGA-44-6775,A,,,,,,,,J,,,,,,,,"A,J",Female,72,22.487424795,Hispanic Or Latino,63
+TCGA-44-7659,,B,,,,,,,,K,,,,,,,"B,K",Male,70,22.71755926,Not Hispanic Or Latino,139
+TCGA-44-7660,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,72,8.3177170661,Not Hispanic Or Latino,334
+TCGA-44-7661,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,69,11.013577933,Not Hispanic Or Latino,276
+TCGA-44-7662,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,61,7.1670447447,Not Hispanic Or Latino,540
+TCGA-44-7667,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Female,49,36.065358188000005,Not Hispanic Or Latino,431
+TCGA-44-7669,A,,C,,F,,,I,J,,L,,N,,,Q,"A,C,F,I,J,L,N,Q",Male,59,12.821777296,Not Hispanic Or Latino,421
+TCGA-44-7670,A,,,,,,,,J,,,,,,,,"A,J",Female,47,28.996942499,Hispanic Or Latino,1017
+TCGA-44-7671,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Male,64,29.029818851,Not Hispanic Or Latino,200
+TCGA-44-7672,,B,,,,,,,,K,,,,,,,"B,K",Female,52,23.638097117,Not Hispanic Or Latino,156
+TCGA-44-8117,A,B,,,,,H,I,J,K,,,,,P,Q,"A,B,H,I,J,K,P,Q",Female,54,12.657395535,Not Hispanic Or Latino,679
+TCGA-44-8119,,,,,F,,H,I,,,,,N,,P,Q,"F,H,I,N,P,Q",Male,73,9.3697603314,Not Hispanic Or Latino,581
+TCGA-44-8120,A,,,,F,,,,J,,,,N,,,,"A,F,J,N",Male,58,8.5478515304,Not Hispanic Or Latino,544
+TCGA-44-A479,A,,,,F,,H,,J,,,,N,,P,,"A,F,H,J,N,P",Female,73,14.366965841,Not Hispanic Or Latino,279
+TCGA-44-A47A,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,78,13.05191176,Not Hispanic Or Latino,211
+TCGA-44-A47F,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Male,74,11.079330637,Not Hispanic Or Latino,78
+TCGA-44-A47G,A,,,,,,,,J,,,,,,,,"A,J",Female,73,11.539599566,Not Hispanic Or Latino,77
+TCGA-44-A4SS,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Male,73,13.643686097,Not Hispanic Or Latino,443
+TCGA-44-A4SU,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,67,8.5478515304,Not Hispanic Or Latino,133
+TCGA-49-4486,,,C,,,,,,,,L,,,,,,"C,L",Male,72,67.232139922,Not Hispanic Or Latino,143
+TCGA-49-4487,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Female,72,22.914817372,Not Hispanic Or Latino,346
+TCGA-49-4488,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Female,74,20.843607193,Not Hispanic Or Latino,270
+TCGA-49-4490,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,45,12.657395535,Not Hispanic Or Latino,47
+TCGA-49-4494,,,,D,,,,I,,,,M,,,,Q,"D,I,M,Q",Male,77,35.539336555,Not Hispanic Or Latino,171
+TCGA-49-4501,,,,D,,,,,,,,M,,,,,"D,M",Female,67,17.917611862,Not Hispanic Or Latino,47
+TCGA-49-4505,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,61,13.709438801,Not Hispanic Or Latino,187
+TCGA-49-4506,,B,C,,,,,,,K,L,,,,,,"B,C,K,L",Female,68,22.750435612,Not Hispanic Or Latino,116
+TCGA-49-4507,,,C,,F,G,,,,,L,,N,O,,,"C,F,G,L,N,O",Female,73,5.1944636223,Not Hispanic Or Latino,183
+TCGA-49-4510,,B,,,,G,,,,K,,,,O,,,"B,G,K,O",Female,51,16.503928724,Not Hispanic Or Latino,57
+TCGA-49-6742,,,C,,,,H,I,,,L,,,,P,Q,"C,H,I,L,P,Q",Male,70,7.035539336599999,Not Hispanic Or Latino,237
+TCGA-49-AAQV,A,,,,,,,,J,,,,,,,,"A,J",Female,63,16.734063188,Not Hispanic Or Latino,67
+TCGA-49-AAR2,,,C,,,,,,,,L,,,,,,"C,L",Male,64,73.117006937,Not Hispanic Or Latino,364
+TCGA-49-AAR3,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,69,62.234934412,Not Hispanic Or Latino,127
+TCGA-49-AAR4,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,51,28.898313443000003,Not Hispanic Or Latino,534
+TCGA-49-AAR9,A,,C,,,,H,I,J,,L,,,,P,Q,"A,C,H,I,J,L,P,Q",Male,61,8.5478515304,Not Hispanic Or Latino,565
+TCGA-49-AARE,A,,C,,,,H,I,J,,L,,,,P,Q,"A,C,H,I,J,L,P,Q",Female,51,12.756024592,Not Hispanic Or Latino,1197
+TCGA-49-AARN,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,56,37.314659565,Not Hispanic Or Latino,693
+TCGA-49-AARO,,B,,,,,,,,K,,,,,,,"B,K",Female,39,37.610546734,Not Hispanic Or Latino,540
+TCGA-4B-A93V,A,B,C,,F,,,,J,K,L,,N,,,,"A,B,C,F,J,K,L,N",Female,52,8.251964362,Not Hispanic Or Latino,123
+TCGA-50-5045,A,,,,,,,,J,,,,,,,,"A,J",Female,57,47.111812473,Not Hispanic Or Latino,296
+TCGA-50-5049,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,70,51.550119999,Not Hispanic Or Latino,746
+TCGA-50-5051,,B,C,,,,,,,K,L,,,,,,"B,C,K,L",Female,42,6.0492487754,Not Hispanic Or Latino,102
+TCGA-50-5066,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Male,72,15.682019923,Not Hispanic Or Latino,264
+TCGA-50-5068,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Female,59,22.553177499,Not Hispanic Or Latino,85
+TCGA-50-5072,,,,,F,,H,,,,,,N,,P,,"F,H,N,P",Male,74,7.002662984500001,Not Hispanic Or Latino,156
+TCGA-50-5930,A,,,,,,H,I,J,,,,,,P,Q,"A,H,I,J,P,Q",Male,47,5.8191143111,Not Hispanic Or Latino,1029
+TCGA-50-5931,A,,,,,,,,J,,,,,,,,"A,J",Female,75,13.972449617,Not Hispanic Or Latino,277
+TCGA-50-5932,,B,,,,,,,,K,,,,,,,"B,K",Male,75,35.835223724,Not Hispanic Or Latino,70
+TCGA-50-5933,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,72,78.673110432,Not Hispanic Or Latino,495
+TCGA-50-5936,,B,C,,,,H,,,K,L,,,,P,,"B,C,H,K,L,P",Male,58,4.931452806,Not Hispanic Or Latino,106
+TCGA-50-5939,A,,C,,F,,,,J,,L,,N,,,,"A,C,F,J,L,N",Male,85,15.123121938,Not Hispanic Or Latino,75
+TCGA-50-6590,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,72,42.344741427,Not Hispanic Or Latino,831
+TCGA-50-6591,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,63,3.9122858928,Not Hispanic Or Latino,55
+TCGA-50-6592,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Female,71,25.544925535,Not Hispanic Or Latino,267
+TCGA-50-6593,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,49,8.7451096426,Not Hispanic Or Latino,286
+TCGA-50-6594,A,,,,,,,,J,,,,,,,,"A,J",Female,79,9.3697603314,Not Hispanic Or Latino,489
+TCGA-50-6595,A,,,D,,,,I,J,,,M,,,,Q,"A,D,I,J,M,Q",Female,74,5.9834960713,Not Hispanic Or Latino,98
+TCGA-50-7109,,B,,,F,,,I,,K,,,N,,,Q,"B,F,I,K,N,Q",Male,60,0.4931452806,Not Hispanic Or Latino,235
+TCGA-50-8459,,B,,,,,,,,K,,,,,,,"B,K",Male,68,14.202584081,Not Hispanic Or Latino,76
+TCGA-50-8460,A,,,,,,,,J,,,,,,,,"A,J",Male,74,27.254495841,Not Hispanic Or Latino,30
+TCGA-53-7624,A,,C,,,G,H,I,J,,L,,,O,P,Q,"A,C,G,H,I,J,L,O,P,Q",Female,40,13.150540816,Hispanic Or Latino,744
+TCGA-53-7626,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,76,28.438044515,Not Hispanic Or Latino,1049
+TCGA-53-7813,,B,,,F,G,,,,K,,,N,O,,,"B,F,G,K,N,O",Female,51,13.939573265,Not Hispanic Or Latino,149
+TCGA-53-A4EZ,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Male,63,35.210573035,Hispanic Or Latino,451
+TCGA-55-1592,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,65,14.860111122,Not Hispanic Or Latino,488
+TCGA-55-1594,A,,,,,,,,J,,,,,,,,"A,J",Male,68,38.728342703,Not Hispanic Or Latino,169
+TCGA-55-1595,,B,,,,G,,,,K,,,,O,,,"B,G,K,O",Female,74,48.624124667,Not Hispanic Or Latino,297
+TCGA-55-1596,A,,,,F,,H,I,J,,,,N,,P,Q,"A,F,H,I,J,N,P,Q",Male,55,67.889666963,Not Hispanic Or Latino,178
+TCGA-55-5899,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,58,30.575007397,Not Hispanic Or Latino,387
+TCGA-55-6968,A,,,D,,,,I,J,,,M,,,,Q,"A,D,I,J,M,Q",Male,61,42.509123188,Not Hispanic Or Latino,460
+TCGA-55-6972,,,C,,,,,,,,L,,,,,,"C,L",Male,72,53.654206529,Not Hispanic Or Latino,264
+TCGA-55-6975,A,B,,,,,H,,J,K,,,,,P,,"A,B,H,J,K,P",Male,61,3.8794095407,Not Hispanic Or Latino,85
+TCGA-55-6981,,,,D,,,,,,,,M,,,,,"D,M",Female,53,45.336489463,Not Hispanic Or Latino,203
+TCGA-55-6983,,B,,,,,,,,K,,,,,,,"B,K",Male,81,92.809941809,Not Hispanic Or Latino,106
+TCGA-55-6984,,B,,,,,,,,K,,,,,,,"B,K",Female,71,23.802478877,Not Hispanic Or Latino,31
+TCGA-55-6987,,,C,,,,,,,,L,,,,,,"C,L",Male,77,70.25676430899999,Not Hispanic Or Latino,214
+TCGA-55-7227,A,,,,,,,,J,,,,,,,,"A,J",Male,77,8.3834697702,Not Hispanic Or Latino,152
+TCGA-55-7283,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,76,20.021698392,Not Hispanic Or Latino,211
+TCGA-55-7284,,B,,,,,,,,K,,,,,,,"B,K",Male,74,7.5944373212,Not Hispanic Or Latino,40
+TCGA-55-7570,A,,,D,,,,I,J,,,M,,,,Q,"A,D,I,J,M,Q",Male,60,27.090114081,Not Hispanic Or Latino,355
+TCGA-55-7573,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,72,16.010783443,Not Hispanic Or Latino,50
+TCGA-55-7574,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Female,64,15.714896275,Not Hispanic Or Latino,247
+TCGA-55-7576,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,54,22.027155867,Not Hispanic Or Latino,371
+TCGA-55-7725,,B,,,,,,,,K,,,,,,,"B,K",Female,68,14.531347602,Not Hispanic Or Latino,116
+TCGA-55-7726,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,72,21.43538153,Not Hispanic Or Latino,109
+TCGA-55-7727,A,,,,,,,,J,,,,,,,,"A,J",Male,70,3.9122858928,Not Hispanic Or Latino,220
+TCGA-55-7728,,B,,,,,,,,K,,,,,,,"B,K",Female,64,23.144951836,Not Hispanic Or Latino,87
+TCGA-55-7903,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,64,18.640891607,Not Hispanic Or Latino,142
+TCGA-55-7907,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,77,9.6656474998,Not Hispanic Or Latino,1067
+TCGA-55-7910,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,50,33.468126377,Not Hispanic Or Latino,287
+TCGA-55-7911,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,70,16.931321301,Not Hispanic Or Latino,211
+TCGA-55-7913,A,,,,F,,,,J,,,,N,,,,"A,F,J,N",Female,61,15.780648979,Not Hispanic Or Latino,308
+TCGA-55-7914,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,71,6.1478778315,Not Hispanic Or Latino,161
+TCGA-55-7994,A,,,,,,,,J,,,,,,,,"A,J",Male,81,19.82444028,Not Hispanic Or Latino,1388
+TCGA-55-7995,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Female,73,15.386132755,Not Hispanic Or Latino,606
+TCGA-55-8085,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,64,29.720222244,Not Hispanic Or Latino,226
+TCGA-55-8087,,,,,,,,I,,,,,,,,Q,"I,Q",Female,59,15.188874642,Not Hispanic Or Latino,34
+TCGA-55-8089,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Male,56,23.079199132,Not Hispanic Or Latino,1095
+TCGA-55-8090,,B,,,,,,,,K,,,,,,,"B,K",Male,80,18.016240918,Not Hispanic Or Latino,76
+TCGA-55-8092,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Male,75,4.1752967091,Not Hispanic Or Latino,491
+TCGA-55-8094,A,B,C,,,,,,J,K,L,,,,,,"A,B,C,J,K,L",Male,51,17.786106454000002,Not Hispanic Or Latino,395
+TCGA-55-8096,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,67,18.608015255,Not Hispanic Or Latino,132
+TCGA-55-8097,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,60,15.649143571,Not Hispanic Or Latino,100
+TCGA-55-8203,,B,,,F,,,I,,K,,,N,,,Q,"B,F,I,K,N,Q",Female,69,17.983364566,Not Hispanic Or Latino,387
+TCGA-55-8204,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,87,16.931321301,Not Hispanic Or Latino,192
+TCGA-55-8205,A,,,,,,,,J,,,,,,,,"A,J",Female,76,16.27379426,Not Hispanic Or Latino,473
+TCGA-55-8206,,,,D,,,,,,,,M,,,,,"D,M",Male,56,29.194200612,Not Hispanic Or Latino,27
+TCGA-55-8207,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Male,73,32.120195943,Not Hispanic Or Latino,277
+TCGA-55-8208,A,,,,,,,,J,,,,,,,,"A,J",Female,73,16.799815892,Not Hispanic Or Latino,319
+TCGA-55-8299,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Female,61,9.008120459,Not Hispanic Or Latino,194
+TCGA-55-8301,A,,,,,,,,J,,,,,,,,"A,J",Male,58,7.8245717855,Not Hispanic Or Latino,259
+TCGA-55-8505,,,C,,,,,,,,L,,,,,,"C,L",Male,62,14.465594898,Not Hispanic Or Latino,28
+TCGA-55-8506,A,,C,D,,,,,J,,L,M,,,,,"A,C,D,J,L,M",Female,62,0.3616398724,Not Hispanic Or Latino,1583
+TCGA-55-8507,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Male,53,13.742315153,Not Hispanic Or Latino,874
+TCGA-55-8508,,B,,,F,G,,I,,K,,,N,O,,Q,"B,F,G,I,K,N,O,Q",Female,60,20.284709209000003,Not Hispanic Or Latino,165
+TCGA-55-8510,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Female,55,17.72035375,Not Hispanic Or Latino,275
+TCGA-55-8511,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,73,15.123121938,Not Hispanic Or Latino,512
+TCGA-55-8512,,B,,,,,,,,K,,,,,,,"B,K",Male,41,19.955945688,Not Hispanic Or Latino,35
+TCGA-55-8514,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,70,17.095703061,Not Hispanic Or Latino,250
+TCGA-55-8614,A,,,,,,,,J,,,,,,,,"A,J",Male,76,17.621724693,Not Hispanic Or Latino,203
+TCGA-55-8615,,B,,,F,,,I,,K,,,N,,,Q,"B,F,I,K,N,Q",Male,67,7.364302857,Not Hispanic Or Latino,99
+TCGA-55-8616,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,58,1.5780648978999998,Not Hispanic Or Latino,432
+TCGA-55-8620,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Male,60,12.328632015,Not Hispanic Or Latino,434
+TCGA-55-8621,,,,,,,,I,,,,,,,,Q,"I,Q",Female,75,16.931321301,Not Hispanic Or Latino,68
+TCGA-55-A48X,A,,,,,,,,J,,,,,,,,"A,J",Female,63,20.218956505,Not Hispanic Or Latino,363
+TCGA-55-A48Y,,,,,,,H,,,,,,,,P,,"H,P",Male,69,20.712101785,Not Hispanic Or Latino,313
+TCGA-55-A48Z,A,,,D,,,H,,J,,,M,,,P,,"A,D,H,J,M,P",Female,60,17.621724693,Not Hispanic Or Latino,44
+TCGA-55-A490,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Male,78,3.254758852,Not Hispanic Or Latino,1192
+TCGA-55-A491,A,,,,,,,,J,,,,,,,,"A,J",Female,81,20.580596377,Not Hispanic Or Latino,334
+TCGA-55-A492,,,C,,F,,,I,,,L,,N,,,Q,"C,F,I,L,N,Q",Female,70,19.594305816,Not Hispanic Or Latino,262
+TCGA-55-A493,A,,,,,,,,J,,,,,,,,"A,J",Female,54,0.9205378571,Not Hispanic Or Latino,236
+TCGA-55-A494,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,61,15.813525331,Not Hispanic Or Latino,213
+TCGA-55-A4DF,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,88,16.931321301,Not Hispanic Or Latino,678
+TCGA-55-A4DG,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,71,19.98882204,Not Hispanic Or Latino,626
+TCGA-55-A57B,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,80,17.950488214,Not Hispanic Or Latino,39
+TCGA-62-8394,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,65,4.5698129336,Not Hispanic Or Latino,117
+TCGA-62-8398,,B,C,,,G,,,,K,L,,,O,,,"B,C,G,K,L,O",Male,55,14.597100306,Not Hispanic Or Latino,74
+TCGA-62-8399,A,,,,,,,,J,,,,,,,,"A,J",Male,62,88.63464509999999,Not Hispanic Or Latino,467
+TCGA-62-8402,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,73,25.380543775,Not Hispanic Or Latino,41
+TCGA-62-A46O,A,,C,,,,H,I,J,,L,,,,P,Q,"A,C,H,I,J,L,P,Q",Female,65,31.002399974,Not Hispanic Or Latino,799
+TCGA-62-A46P,,,,,F,,,I,,,,,N,,,Q,"F,I,N,Q",Male,65,8.7779859947,Not Hispanic Or Latino,250
+TCGA-62-A46R,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,54,56.711707269,Not Hispanic Or Latino,170
+TCGA-62-A46S,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Male,73,17.325837525,Not Hispanic Or Latino,107
+TCGA-62-A46U,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,71,67.955419667,Not Hispanic Or Latino,40
+TCGA-62-A46Y,A,,,,,G,,I,J,,,,,O,,Q,"A,G,I,J,O,Q",Female,70,10.323174541,Not Hispanic Or Latino,35
+TCGA-62-A470,,,C,,F,,,,,,L,,N,,,,"C,F,L,N",Male,84,17.72035375,Not Hispanic Or Latino,105
+TCGA-62-A471,A,,,,,,,,J,,,,,,,,"A,J",Male,64,40.963934642,Not Hispanic Or Latino,91
+TCGA-62-A472,A,,,,,,,,J,,,,,,,,"A,J",Male,70,9.5341420916,Not Hispanic Or Latino,52
+TCGA-64-1676,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,58,56.810336325,Not Hispanic Or Latino,531
+TCGA-64-1677,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,77,11.835486734000002,Not Hispanic Or Latino,196
+TCGA-64-1679,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,58,81.796363875,Not Hispanic Or Latino,480
+TCGA-64-1680,,,,,,,,I,,,,,,,,Q,"I,Q",Male,63,37.018772397,Not Hispanic Or Latino,54
+TCGA-64-1681,A,,,D,,G,,,J,,,M,,O,,,"A,D,G,J,M,O",Female,61,14.432718545999998,Not Hispanic Or Latino,77
+TCGA-64-5774,,B,,,,G,,,,K,,,,O,,,"B,G,K,O",Male,60,8.0875826018,Not Hispanic Or Latino,123
+TCGA-64-5775,A,B,,,,G,,I,J,K,,,,O,,Q,"A,B,G,I,J,K,O,Q",Male,71,2.0383338265,Not Hispanic Or Latino,433
+TCGA-64-5778,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,60,31.627050662,Not Hispanic Or Latino,422
+TCGA-64-5781,,,C,,,,,,,,L,,,,,,"C,L",Female,55,3.1561297958,Not Hispanic Or Latino,1023
+TCGA-64-5815,,B,,,,,,,,K,,,,,,,"B,K",Male,74,28.470920867,Not Hispanic Or Latino,147
+TCGA-67-3770,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,70,20.054574744,Not Hispanic Or Latino,187
+TCGA-67-3771,A,,C,,,,H,I,J,,L,,,,P,Q,"A,C,H,I,J,L,P,Q",Female,77,20.054574744,Not Hispanic Or Latino,951
+TCGA-67-3772,,,,D,,,,,,,,M,,,,,"D,M",Female,82,18.838149719,Not Hispanic Or Latino,59
+TCGA-67-3773,,B,,,,,,,,K,,,,,,,"B,K",Female,84,14.038202320999998,Not Hispanic Or Latino,95
+TCGA-67-3774,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Female,73,12.657395535,Not Hispanic Or Latino,95
+TCGA-67-4679,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Male,69,14.728605714,Not Hispanic Or Latino,263
+TCGA-67-6215,,,,,,G,,,,,,,,O,,,"G,O",Female,52,5.720485255,Not Hispanic Or Latino,103
+TCGA-67-6217,,,,D,,,,,,,,M,,,,,"D,M",Female,73,9.7314002038,Not Hispanic Or Latino,177
+TCGA-69-7760,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Male,73,6.6410231121,Not Hispanic Or Latino,63
+TCGA-69-7763,,,,,F,,,I,,,,,N,,,Q,"F,I,N,Q",Male,69,22.684682908000003,Not Hispanic Or Latino,65
+TCGA-69-7765,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Male,56,5.4245980866,Not Hispanic Or Latino,548
+TCGA-69-7973,,B,,,,G,,I,,K,,,,O,,Q,"B,G,I,K,O,Q",Female,42,7.561560969199999,Not Hispanic Or Latino,240
+TCGA-69-7974,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,54,6.0492487754,Not Hispanic Or Latino,482
+TCGA-69-7978,A,B,,,,G,,I,J,K,,,,O,,Q,"A,B,G,I,J,K,O,Q",Male,59,4.405431173399999,Not Hispanic Or Latino,546
+TCGA-69-7979,A,,,,,G,,I,J,,,,,O,,Q,"A,G,I,J,O,Q",Female,71,13.413551632,Not Hispanic Or Latino,1322
+TCGA-69-7980,A,B,,,,,H,I,J,K,,,,,P,Q,"A,B,H,I,J,K,P,Q",Female,70,13.512180688,Not Hispanic Or Latino,737
+TCGA-69-8253,,B,C,,,G,,,,K,L,,,O,,,"B,C,G,K,L,O",Female,59,14.005325969,Not Hispanic Or Latino,133
+TCGA-69-8254,,B,,,,,,,,K,,,,,,,"B,K",Male,85,13.446427984,Not Hispanic Or Latino,75
+TCGA-69-8255,A,,,,,G,H,,J,,,,,O,P,,"A,G,H,J,O,P",Male,71,4.2410494132,Hispanic Or Latino,270
+TCGA-69-A59K,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,60,19.429924056,Not Hispanic Or Latino,438
+TCGA-71-8520,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,60,5.8848670152,Not Hispanic Or Latino,80
+TCGA-73-4658,,,,,,,,I,,,,,,,,Q,"I,Q",Female,80,52.602163264,Not Hispanic Or Latino,323
+TCGA-73-4659,,,,,F,G,,,,,,,N,O,,,"F,G,N,O",Male,66,1.1506723214,Not Hispanic Or Latino,191
+TCGA-73-4662,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,65,0.6904033928,Not Hispanic Or Latino,205
+TCGA-73-4666,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Female,52,26.301081632,Not Hispanic Or Latino,342
+TCGA-73-4668,,,,,,,,I,,,,,,,,Q,"I,Q",Female,66,7.758819081399999,Not Hispanic Or Latino,487
+TCGA-73-4670,A,B,C,,F,,,,J,K,L,,N,,,,"A,B,C,F,J,K,L,N",Female,69,4.3068021172,Not Hispanic Or Latino,331
+TCGA-73-4676,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,45,9.2382549232,Not Hispanic Or Latino,85
+TCGA-73-4677,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Male,74,1.2493013775,Not Hispanic Or Latino,224
+TCGA-73-7498,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Female,58,39.089982576,Not Hispanic Or Latino,98
+TCGA-73-7499,A,,,,,,,,J,,,,,,,,"A,J",Female,81,47.572081402,Not Hispanic Or Latino,65
+TCGA-73-A9RS,A,,,,F,,H,I,J,,,,N,,P,Q,"A,F,H,I,J,N,P,Q",Male,41,3.5177696683,Not Hispanic Or Latino,847
+TCGA-83-5908,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,59,27.090114081,Not Hispanic Or Latino,215
+TCGA-86-6851,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,73,5.8848670152,Not Hispanic Or Latino,839
+TCGA-86-7701,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,66,13.939573265,Not Hispanic Or Latino,380
+TCGA-86-7711,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Male,70,34.388664234000004,Hispanic Or Latino,208
+TCGA-86-7713,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Male,70,38.03793931,Not Hispanic Or Latino,151
+TCGA-86-7953,,B,,,,,,,,K,,,,,,,"B,K",Female,69,32.777722984,Not Hispanic Or Latino,49
+TCGA-86-7954,A,,,,,,,,J,,,,,,,,"A,J",Female,68,19.890192984,Not Hispanic Or Latino,186
+TCGA-86-8054,,B,,,F,G,,,,K,,,N,O,,,"B,F,G,K,N,O",Male,61,37.742052142,Not Hispanic Or Latino,200
+TCGA-86-8055,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Male,79,4.076667653,Not Hispanic Or Latino,40
+TCGA-86-8056,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Female,63,4.5698129336,Not Hispanic Or Latino,257
+TCGA-86-8073,A,,,,,,,,J,,,,,,,,"A,J",Male,58,24.32850051,Not Hispanic Or Latino,1337
+TCGA-86-8074,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,62,0.789032449,Not Hispanic Or Latino,63
+TCGA-86-8075,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,66,6.542394056,Not Hispanic Or Latino,50
+TCGA-86-8076,,B,,,,,,,,K,,,,,,,"B,K",Male,42,32.646217576,Not Hispanic Or Latino,64
+TCGA-86-8279,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,46,31.199658086,Not Hispanic Or Latino,458
+TCGA-86-8280,A,,,D,F,,,,J,,,M,N,,,,"A,D,F,J,M,N",Female,54,23.04632278,Not Hispanic Or Latino,43
+TCGA-86-8281,,,C,,F,,H,,,,L,,N,,P,,"C,F,H,L,N,P",Male,75,0.0,Not Hispanic Or Latino,226
+TCGA-86-8358,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,44,21.468257882,Not Hispanic Or Latino,952
+TCGA-86-8359,,B,,,F,,,I,,K,,,N,,,Q,"B,F,I,K,N,Q",Male,52,14.597100306,Not Hispanic Or Latino,146
+TCGA-86-8585,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Male,57,11.60535227,Not Hispanic Or Latino,532
+TCGA-86-8668,,,,D,,,,,,,,M,,,,,"D,M",Female,61,13.906696913,Not Hispanic Or Latino,33
+TCGA-86-8672,A,,C,,,,,I,J,,L,,,,,Q,"A,C,I,J,L,Q",Male,59,0.6246506888000001,Not Hispanic Or Latino,263
+TCGA-86-8673,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,61,20.909359897,Not Hispanic Or Latino,437
+TCGA-86-8674,,B,C,,,,H,,,K,L,,,,P,,"B,C,H,K,L,P",Male,50,10.980701581,Not Hispanic Or Latino,268
+TCGA-86-A456,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,78,29.457211428,Not Hispanic Or Latino,328
+TCGA-86-A4JF,A,B,,,,G,,,J,K,,,,O,,,"A,B,G,J,K,O",Male,56,14.334089489,Not Hispanic Or Latino,1228
+TCGA-86-A4P7,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,63,13.643686097,Not Hispanic Or Latino,66
+TCGA-91-6828,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Male,70,10.619061709,Not Hispanic Or Latino,275
+TCGA-91-6831,A,,,,,,,,J,,,,,,,,"A,J",Male,66,10.191669132,Not Hispanic Or Latino,258
+TCGA-91-6835,,,,D,,,,,,,,M,,,,,"D,M",Female,81,2.5972318112,Not Hispanic Or Latino,79
+TCGA-91-6836,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,52,13.709438801,Not Hispanic Or Latino,457
+TCGA-91-6840,A,,,,,,,,J,,,,,,,,"A,J",Female,59,12.230002959,Not Hispanic Or Latino,127
+TCGA-91-6847,A,,,,,,,,J,,,,,,,,"A,J",Female,62,25.380543775,Not Hispanic Or Latino,67
+TCGA-91-6848,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Male,59,7.364302857,Not Hispanic Or Latino,562
+TCGA-91-6849,,B,C,,,,,,,K,L,,,,,,"B,C,K,L",Female,75,1.1506723214,Not Hispanic Or Latino,109
+TCGA-91-7771,,,,,F,,,,,,,,N,,,,"F,N",Male,62,16.175165204000002,Not Hispanic Or Latino,186
+TCGA-91-8499,A,,,,,,,,J,,,,,,,,"A,J",Female,76,1.1835486734,Not Hispanic Or Latino,284
+TCGA-91-A4BC,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,59,1.4465594897999998,Not Hispanic Or Latino,401
+TCGA-93-7347,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,76,22.454548443,Not Hispanic Or Latino,105
+TCGA-93-8067,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,77,6.115001479400001,Not Hispanic Or Latino,451
+TCGA-93-A4JN,A,,,,,G,,,J,,,,,O,,,"A,G,J,O",Male,71,23.605220765,Not Hispanic Or Latino,73
+TCGA-93-A4JO,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Male,70,1.0849196173,Not Hispanic Or Latino,53
+TCGA-93-A4JP,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Male,64,16.339546964,Not Hispanic Or Latino,54
+TCGA-95-7039,A,B,,D,,,,I,J,K,,M,,,,Q,"A,B,D,I,J,K,M,Q",Female,54,41.358450866,Not Hispanic Or Latino,1209
+TCGA-95-7043,A,,C,,,,,,J,,L,,,,,,"A,C,J,L",Female,63,16.536805076,Not Hispanic Or Latino,1018
+TCGA-95-7562,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Male,71,2.8602426275,Not Hispanic Or Latino,392
+TCGA-95-7567,A,B,,,,G,,I,J,K,,,,O,,Q,"A,B,G,I,J,K,O,Q",Male,61,18.673767959,Not Hispanic Or Latino,844
+TCGA-95-7944,A,,,,,,,,J,,,,,,,,"A,J",Male,71,12.394384719,Not Hispanic Or Latino,207
+TCGA-95-7947,A,,C,D,,,,,J,,L,M,,,,,"A,C,D,J,L,M",Male,67,15.682019923,Not Hispanic Or Latino,476
+TCGA-95-8039,A,,,,,,,,J,,,,,,,,"A,J",Male,72,7.4958082651,Not Hispanic Or Latino,86
+TCGA-95-8494,A,,,,,,,,J,,,,,,,,"A,J",Male,67,2.7616135714,Not Hispanic Or Latino,90
+TCGA-95-A4VK,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,74,16.306670612,Not Hispanic Or Latino,222
+TCGA-95-A4VN,,B,,,,,,,,K,,,,,,,"B,K",Female,62,18.180622678,Not Hispanic Or Latino,424
+TCGA-97-7553,A,,,,,,,,J,,,,,,,,"A,J",Female,58,61.478778315,Not Hispanic Or Latino,42
+TCGA-97-7554,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,83,25.479172831,Not Hispanic Or Latino,416
+TCGA-97-7937,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,65,18.542262551,Not Hispanic Or Latino,442
+TCGA-97-7938,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,76,0.5917743367,Not Hispanic Or Latino,363
+TCGA-97-7941,,B,,,,,,,,K,,,,,,,"B,K",Female,72,15.912154387,Not Hispanic Or Latino,87
+TCGA-97-8171,,,,D,,,,,,,,M,,,,,"D,M",Male,81,14.49847125,Not Hispanic Or Latino,54
+TCGA-97-8172,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,75,17.917611862,Not Hispanic Or Latino,247
+TCGA-97-8175,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Female,55,9.6656474998,Not Hispanic Or Latino,28
+TCGA-97-8176,,B,C,,,G,H,,,K,L,,,O,P,,"B,C,G,H,K,L,O,P",Male,63,1.2821777296,Not Hispanic Or Latino,138
+TCGA-97-8177,,,,D,,,,,,,,M,,,,,"D,M",Female,59,16.405299667999998,Not Hispanic Or Latino,32
+TCGA-97-8179,A,B,C,,F,,,,J,K,L,,N,,,,"A,B,C,F,J,K,L,N",Male,72,14.301213137,Not Hispanic Or Latino,151
+TCGA-97-8552,,,,D,,,,,,,,M,,,,,"D,M",Female,55,20.580596377,Not Hispanic Or Latino,23
+TCGA-97-A4LX,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,81,20.186080153,Not Hispanic Or Latino,150
+TCGA-97-A4M0,,B,,,,,,,,K,,,,,,,"B,K",Female,60,21.43538153,Not Hispanic Or Latino,345
+TCGA-97-A4M1,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,52,19.758687576,Not Hispanic Or Latino,39
+TCGA-97-A4M3,,,C,,F,G,,I,,,L,,N,O,,Q,"C,F,G,I,L,N,O,Q",Female,69,1.7753230102000002,Not Hispanic Or Latino,192
+TCGA-97-A4M5,,B,,,,,,,,K,,,,,,,"B,K",Male,83,20.843607193,Not Hispanic Or Latino,144
+TCGA-97-A4M6,,,,D,,,,I,,,,M,,,,Q,"D,I,M,Q",Female,45,18.673767959,Not Hispanic Or Latino,28
+TCGA-97-A4M7,,,,D,,,,,,,,M,,,,,"D,M",Male,74,20.679225433,Not Hispanic Or Latino,278
+TCGA-99-7458,A,,,,,,,,J,,,,,,,,"A,J",Female,74,24.558634974,Not Hispanic Or Latino,437
+TCGA-99-8025,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,72,34.848933162,Not Hispanic Or Latino,435
+TCGA-99-8028,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,50,36.755761581,Not Hispanic Or Latino,394
+TCGA-99-8032,,B,,,F,,,I,,K,,,N,,,Q,"B,F,I,K,N,Q",Male,61,1.4465594897999998,Not Hispanic Or Latino,371
+TCGA-99-8033,A,B,C,,,,,,J,K,L,,,,,,"A,B,C,J,K,L",Female,74,21.566886938000003,Not Hispanic Or Latino,168
+TCGA-J2-8192,,,,D,,,,,,,,M,,,,,"D,M",Female,65,15.846401683,Not Hispanic Or Latino,67
+TCGA-J2-8194,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Female,69,15.451885459,Not Hispanic Or Latino,141
+TCGA-J2-A4AD,A,,,,,,H,I,J,,,,,,P,Q,"A,H,I,J,P,Q",Female,61,17.227208469,Not Hispanic Or Latino,294
+TCGA-J2-A4AG,,B,,,,,,I,,K,,,,,,Q,"B,I,K,Q",Female,66,32.481835815,Not Hispanic Or Latino,83
+TCGA-L4-A4E5,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,48,19.002531479,Not Hispanic Or Latino,298
+TCGA-L9-A443,,B,,,,G,,I,,K,,,,O,,Q,"B,G,I,K,O,Q",Female,63,6.3451359437,Not Hispanic Or Latino,233
+TCGA-L9-A444,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,60,10.093040076,Not Hispanic Or Latino,493
+TCGA-L9-A50W,,,,D,,,,,,,,M,,,,,"D,M",Male,75,12.788900944000002,Not Hispanic Or Latino,31
+TCGA-L9-A5IP,A,,,,,,,,J,,,,,,,,"A,J",Female,40,1.61094125,Not Hispanic Or Latino,260
+TCGA-L9-A743,A,,,,,,,,J,,,,,,,,"A,J",Male,56,21.829897755,Not Hispanic Or Latino,117
+TCGA-L9-A7SV,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,69,18.575138903,Not Hispanic Or Latino,1392
+TCGA-L9-A8F4,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Female,64,15.649143571,Not Hispanic Or Latino,694
+TCGA-MN-A4N1,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Male,60,27.188743137,Not Hispanic Or Latino,408
+TCGA-MN-A4N4,A,,,,,G,,I,J,,,,,O,,Q,"A,G,I,J,O,Q",Male,57,38.629713647,Not Hispanic Or Latino,1344
+TCGA-MN-A4N5,A,B,,,,,,,J,K,,,,,,,"A,B,J,K",Male,63,2.7616135714,Not Hispanic Or Latino,402
+TCGA-MP-A4SY,,B,,,,,H,,,K,,,,,P,,"B,H,K,P",Male,61,16.076536148,Not Hispanic Or Latino,159
+TCGA-MP-A4T6,,,,D,,,,,,,,M,,,,,"D,M",Female,76,58.848670152,Not Hispanic Or Latino,58
+TCGA-MP-A4T9,A,,,D,,,,,J,,,M,,,,,"A,D,J,M",Female,54,11.210836046,Not Hispanic Or Latino,31
+TCGA-MP-A4TA,A,,,,,,H,,J,,,,,,P,,"A,H,J,P",Female,75,23.835355229,Not Hispanic Or Latino,316
+TCGA-MP-A4TC,A,,,,,,,,J,,,,,,,,"A,J",Male,77,2.432850051,Not Hispanic Or Latino,228
+TCGA-MP-A4TE,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Male,56,7.430055561,Not Hispanic Or Latino,124
+TCGA-MP-A4TF,A,B,,,,,,I,J,K,,,,,,Q,"A,B,I,J,K,Q",Female,58,6.410888647799999,Not Hispanic Or Latino,379
+TCGA-MP-A4TH,,,,,,,,I,,,,,,,,Q,"I,Q",Female,70,24.361376862,Not Hispanic Or Latino,108
+TCGA-MP-A4TI,A,B,,,,G,,I,J,K,,,,O,,Q,"A,B,G,I,J,K,O,Q",Male,72,2.7616135714,Not Hispanic Or Latino,207
+TCGA-MP-A5C7,,,C,,,,,,,,L,,,,,,"C,L",Female,76,73.906039386,Not Hispanic Or Latino,58
+TCGA-NJ-A4YF,A,,,,F,,,I,J,,,,N,,,Q,"A,F,I,J,N,Q",Female,50,71.04579675800001,Not Hispanic Or Latino,547
+TCGA-NJ-A4YP,,B,,,F,G,,,,K,,,N,O,,,"B,F,G,K,N,O",Male,52,1.643817602,Not Hispanic Or Latino,468
+TCGA-NJ-A4YQ,,,C,,,,H,I,,,L,,,,P,Q,"C,H,I,L,P,Q",Female,69,47.078936121000005,Not Hispanic Or Latino,998
+TCGA-NJ-A55A,,,,,,,,I,,,,,,,,Q,"I,Q",Female,76,0.4931452806,Not Hispanic Or Latino,99
+TCGA-NJ-A55O,,B,,,F,,,,,K,,,N,,,,"B,F,K,N",Female,56,0.4273925765,Not Hispanic Or Latino,124
+TCGA-NJ-A55R,,B,C,,F,,,,,K,L,,N,,,,"B,C,F,K,L,N",Male,67,19.82444028,Not Hispanic Or Latino,232
+TCGA-O1-A52J,A,,,,,,,I,J,,,,,,,Q,"A,I,J,Q",Female,74,29.522964132,Not Hispanic Or Latino,153
