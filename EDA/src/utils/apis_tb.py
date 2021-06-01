@@ -1,7 +1,7 @@
 import os
 import sys
 from flask import Flask, request, render_template
-from functions import read_json
+from utils.functions import read_json
 
 
 # Mandatory
@@ -12,28 +12,24 @@ app = Flask(__name__)  # __name__ --> __main__
 def home():
     """ Default path """
     #return app.send_static_file('greet.html')
-    return "Por defecto"
+    return "Por favor introduce el end-point /info, e introduce el parámetro token_id con el valor correspondiente"
 
-@app.route("/greet")
-def greet():
-    username = request.args.get('name')
-    return render_template('index.html', name=username)
+
 
 @app.route("/info")
 def create_json():
-    import pandas as pd
-    df = pd.read_csv(os.path.dirname(os.path.dirname(os.path.dirname(__file__))) + os.sep + 'documentation' + os.sep + 'lung_nn_outl.csv')
-    return df.to_json()
-
-# localhost:6060/give_me_id?password=12345
-@app.route('/give_me_id', methods=['GET'])
-def give_id():
-    token_id = request.args['password']
-    if token_id == "p10875558":
-        return request.args
+    if 'token_id' in request.args:
+        x = request.args['token_id']
+        if x == "p10875558":
+            import pandas as pd
+            df = pd.read_csv(os.path.dirname(os.path.dirname(os.path.dirname(__file__))) + os.sep + 'documentation' + os.sep + 'lung_nn_outl.csv')
+            return df.to_json()
+        else:
+            return 'wrong password'
     else:
-        return "No es la contraseña correcta"
-    
+        return 'wrong parameter'
+
+
 
 @app.route("/recibe_informacion")
 def recibe_info():

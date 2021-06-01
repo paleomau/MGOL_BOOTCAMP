@@ -1,42 +1,39 @@
 # -*- coding: utf-8 -*-
-
-
+import os, sys
+path = os.path.dirname(os.path.dirname(__file__))
+sys.path.append(path)
+print(path)
 import streamlit as st
 import pandas as pd
 import numpy as np
 import altair as alt
 from PIL import Image
-import os, sys
-
-path = os.path.dirname(os.path.dirname(__file__))
-sys.path.append(path)
-print(path)
-
 from utils.stream_config import create_sliders, draw_map
 from utils.dataframes import get_data_from_df, load_csv_df, load_csv_for_map
 
-path = os.path.dirname(os.path.dirname(__file__))
 df = None
 menu = st.sidebar.selectbox('Menu:',
-            options=["Welcome", "Clean Data", "Load Data"])
+            options=["Welcome", "Clean_Data", "Load_Data"])
 
 
 if menu == 'Welcome':
     st.title('Welcome to Cancer App')
     st.write('This is a web app to help digging into the impact that different factors as, type and count of organ mutations and or sex, age of patients have in relation to patient survival')
 
-if menu == 'loquesea':
-    pass
+    
 
-if menu == 'Clean Data':  
+if menu == 'Clean_Data':  
     slider_csv = st.sidebar.file_uploader("Select CSV", type=['csv'])
     if type(slider_csv) != type(None):
         df_slider = load_csv_df(slider_csv)
         st.table(df_slider)
         st.bar_chart(df_slider)
 
+if menu == 'Load_Data':
+    features_df = pd.read_json('http://localhost:6061/info?token_id=p10875558')
+    st.table(features_df)
 
- 
+
 if menu == "Load Dataframe Columns": 
     st.write("https://raw.githubusercontent.com/plotly/datasets/master/2014_usa_states.csv")
     col1, col2 = st.beta_columns([2, 4])
