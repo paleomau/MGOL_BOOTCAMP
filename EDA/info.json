@@ -1,0 +1,12 @@
+{
+    "project_name": "Estudio de las mutaciones generadas como consecuencia de tumores en diferentes órganos, su relación con la tipología de pacientes y el impacto en la supervivencia",
+    "author": "Mauro Garcia-Oliva Gonzalez",
+    "linkedin": "https://www.linkedin.com/in/maurogarciaoliva/",
+    "e_mail": "maurogarciaoliva@gmail.com",
+    "project_title": "Estudio de las mutaciones generadas como consecuencia de tumores en diferentes órganos, su relación con la tipología de pacientes y el impacto en la supervivencia",
+    "project_description": "Los tumores generan mutaciones en los órganos donde se encuentran. El estudio trata de dilucidar si estas mutaciones, junto con las características propias del paciente tienen un impacto en su supervivencia.",
+    "flask_port": 6061,
+    "streamlit_port": 8501,
+    "links": "",
+    "python_libraries_used": ["pandas", "os", "sys", "seaborn", "matplotlib.pyplot", "numpy", "streamlit", "PIL", "argparse", "json", "flask", "mining_data_tb"]
+}
